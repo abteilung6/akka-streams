@@ -16,3 +16,10 @@ Build streams by connecting components
 Directory
 - upstream = to the source
 - downstream = to the sink
+
+Running a graph = materializing all components
+- each component produces a materialized value
+- graph produces a singled materialized value
+
+
+
