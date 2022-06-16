@@ -28,3 +28,6 @@ Async boundaries
 - components run on different actors
 - better throughput
 - (when operations are expensive)
+
+Data flows through streams in response to demand
+Streams can slow down fast producers
