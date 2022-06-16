@@ -21,5 +21,10 @@ Running a graph = materializing all components
 - each component produces a materialized value
 - graph produces a singled materialized value
 
+Stream components are fused
+- run on the same actor 
 
-
+Async boundaries
+- components run on different actors
+- better throughput
+- (when operations are expensive)
