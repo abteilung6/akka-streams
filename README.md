@@ -31,3 +31,11 @@ Async boundaries
 
 Data flows through streams in response to demand
 Streams can slow down fast producers
+
+fan-out components
+- single input, multiple outputs
+- broadcast, balance
+
+fan-in components
+- multiple inputs, single output
+- zip, zipWith, merge, concat
