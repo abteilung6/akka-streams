@@ -39,3 +39,6 @@ fan-out components
 fan-in components
 - multiple inputs, single output
 - zip, zipWith, merge, concat
+
+Fault tolerance
+- Recovering, Backoff supervision or Supervision strategies
